@@ -35,5 +35,5 @@ Alakítsd át az osztályokat az alábbiak szerint
     $blog->display();
 
 ##Referencia:    
-- Névterek: [http://php.net/manual/en/language.namespaces.php] (angol)
-- OOP: [http://php.net/manual/en/language.oop5.php] (angol)
+- Névterek: http://php.net/manual/en/language.namespaces.php (angol)
+- OOP: http://php.net/manual/en/language.oop5.php (angol)
