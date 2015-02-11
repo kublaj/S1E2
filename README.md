@@ -20,7 +20,7 @@ interface Displayable {
     public function display();
 }
 /**
- * Olyan kontener elem, ami megjelenitheto elemeket tartalmaz.
+ * Olyan kontener, ami megjelenitheto elemeket tartalmaz.
  */
 interface DisplayableContainer {
     /**
