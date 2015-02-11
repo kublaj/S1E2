@@ -1,10 +1,12 @@
-A Webtudor: OOP a gyakorlatban (1. rész) előadás kódanyaga
-
 # Házi feladat
 
 - Olvasd el a PHP dokumentáció ide vonatkozó részét!
 - Próbáld ki az absztrakt osztályok és interface-k működését!
 - Nézz utána a névterek (namespace-k) működésének!
+
+##Referencia:    
+- OOP: http://php.net/manual/en/language.oop5.php (angol)
+- Névterek: http://php.net/manual/en/language.namespaces.php (angol)
 
 ## Feladat:
 Alakítsd át az osztályokat az alábbiak szerint.
@@ -67,7 +69,3 @@ $blog->add($alBlog); //magyarázd meg, hogy ez miért működik!
 $blog->add($alBlog2);
 $blog->display();
 ```
-
-##Referencia:    
-- Névterek: http://php.net/manual/en/language.namespaces.php (angol)
-- OOP: http://php.net/manual/en/language.oop5.php (angol)
