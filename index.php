@@ -7,8 +7,6 @@
  * Automatikus osztaly betoltes
  *
  * @param string $class
- *
- * @return void
  */
 function __autoload($class) {
 	include_once(__DIR__ . '/classes/' . $class . '.php');

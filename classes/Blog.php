@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Ez az osztaly tartalmazza a blogpostjainkat.
+ * Ez az osztaly tarolja es megjeleniti a blogpostjainkat.
  */
 class Blog {
 	/**

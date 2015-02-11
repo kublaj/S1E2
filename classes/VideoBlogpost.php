@@ -20,9 +20,7 @@ class VideoBlogpost extends Blogpost {
 	}
 
 	/**
-	 * Megjeleniti a blogpostot
-	 *
-	 * @return void
+	 * Megjeleniti a blogpostot.
 	 */
 	public function display() {
 		parent::display();
