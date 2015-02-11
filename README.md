@@ -69,3 +69,7 @@ $blog->add($alBlog); //magyarázd meg, hogy ez miért működik!
 $blog->add($alBlog2);
 $blog->display();
 ```
+
+## Tárhely
+
+A feladat végrehajtásához ingyen teszt tárhelyet regisztrálhatsz a http://tudorhosting.com címen.
